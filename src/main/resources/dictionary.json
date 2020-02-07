@@ -1,0 +1,15 @@
+{
+  "values": {
+    "$example": {
+      "usage": 0,
+      "value": 0
+    }
+  },
+
+  "multipliers": {
+    "$example": {
+      "usage": 0,
+      "value": 1
+    }
+  }
+}
